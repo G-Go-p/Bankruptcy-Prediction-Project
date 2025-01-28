@@ -1,1 +1,2 @@
 # Bankruptcy-Prediction-Project
+Developed a binary classification model to predict the likelihood of business bankruptcy using data from 250 companies. Leveraged key financial and operational features to identify patterns and indicators of financial distress. Implemented machine learning algorithms, conducted feature engineering, and evaluated model performance using metrics like accuracy and F1-score. Delivered actionable insights to help stakeholders in risk assessment and decision-making.
